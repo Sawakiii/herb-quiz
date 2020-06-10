@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d308e6faf03a1ee9dd15cb9cae4a910d",
+    "revision": "8445f791deae18bd712578b5b778aeaf",
     "url": "/herb-quiz/index.html"
   },
   {
-    "revision": "5288ed89cdcb6dc5e423",
+    "revision": "18f2100caea2785dff08",
     "url": "/herb-quiz/static/css/main.7a73bef7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/herb-quiz/static/js/2.70ce6bbe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5288ed89cdcb6dc5e423",
-    "url": "/herb-quiz/static/js/main.1bae7ab4.chunk.js"
+    "revision": "18f2100caea2785dff08",
+    "url": "/herb-quiz/static/js/main.b5d4cdd4.chunk.js"
   },
   {
     "revision": "812ec5568c2eee4d5cbf",

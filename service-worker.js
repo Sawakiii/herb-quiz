@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/herb-quiz/precache-manifest.e8deb3394361f49b13e02c9cfb255075.js"
+  "/herb-quiz/precache-manifest.bd9d8e6425dd27e7ec0814de903246cf.js"
 );
 
 self.addEventListener('message', (event) => {
